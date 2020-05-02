@@ -1,6 +1,6 @@
 {
     "title": "Resume",
-    "name": "startbootstrap-resume",
+    "name": "Gowtham-Portfolio",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
